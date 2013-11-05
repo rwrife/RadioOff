@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioOff", "RadioOff\RadioOff.csproj", "{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "RadioOffSetup", "RadioOffSetup\RadioOffSetup.vddproj", "{4F4DAC89-62C6-4E9D-BBEC-284E800F0385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5018FB5F-1A78-43D5-B44C-1125B5A3D6A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4F4DAC89-62C6-4E9D-BBEC-284E800F0385}.Debug|Any CPU.ActiveCfg = Debug
+		{4F4DAC89-62C6-4E9D-BBEC-284E800F0385}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

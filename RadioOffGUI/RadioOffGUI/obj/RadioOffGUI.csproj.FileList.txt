@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RadioOffGUI.Form1.resources
+obj\Debug\RadioOffGUI.Properties.Resources.resources
+obj\Debug\RadioOffGUI.csproj.GenerateResource.Cache
+bin\Debug\RadioOffGUI.exe
+bin\Debug\RadioOffGUI.pdb
+bin\Debug\Microsoft.WindowsMobile.dll
+bin\Debug\Microsoft.WindowsMobile.Status.dll
+bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+bin\Debug\Microsoft.WindowsMobile.Status.xml
+bin\Debug\Microsoft.WindowsMobile.xml
+obj\Debug\RadioOffGUI.exe
+obj\Debug\RadioOffGUI.pdb
+bin\Debug\Microsoft.WindowsMobile.Telephony.dll
+bin\Debug\Microsoft.WindowsMobile.Telephony.xml
